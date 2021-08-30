@@ -2,5 +2,5 @@
 
 repository for DMC course.
 
-**My Name:** Citally  
-Student ID:
+**My Name:** Citlally Lopez 
+Student ID: 1001517923
