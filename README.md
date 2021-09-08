@@ -1,6 +1,6 @@
 # DMC2021F  
 
-#### <Data Science> - <DATA-3421:Data Mining,Management, and Curation > (<FALL> <2021>)
+#### Data Science - DATA-3421:Data Mining,Management, and Curation  (FALL 2021)
 
 **Name:** Citlally Lopez  
 **School ID:** 1001517923  
