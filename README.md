@@ -2,12 +2,12 @@
 
 #### <Data Science> - <DATA-3421:Data Mining,Management, and Curation > (<FALL> <2021>)
 
-**Name:** <Citlally> <Lopez>  
-**School ID:** <1001517923>  
-**Email:** <your email>  
-**Department:** [Department of <Mathematics>](<https://www.uta.edu/academics/schools-colleges/science/departments/mathematics>)  
-**University:** [The University of <Texas at Arlington](<website address>)  
-**Level:** <Undergraduate> - < Senior (4th year) >  
+**Name:** Citlally Lopez  
+**School ID:** 1001517923  
+**Email:** citlally.lopez@mavs.uta.edu  
+**Department:** [Department of Mathematics](<https://www.uta.edu/academics/schools-colleges/science/departments/mathematics>)  
+**University:** [The University of Texas at Arlington](<https://www.uta.edu/>)  
+**Level:** Undergraduate - Senior (4th year)   
 **Position Title:** Student  
 **Course Webpage:** <https://www.cdslab.org/DMC2021F/>  
 **Photo (*ATTN: should display your photo, not mine!*):**  
@@ -30,9 +30,9 @@ This repository contains my homework, quizzes, and virtually every effort that I
 
 For questions and troubleshooting, please contact:  
 
-<Citlally Lopez>  
-<citlally.lopez@mavs.uta.edu>  
-<any other contact or signature information that you would like to add>
+Citlally Lopez
+citlally.lopez@mavs.uta.edu 
+
 
 >I have not failed. I've just found 10,000 ways that won't work.  
 >[Thomas A. Edison](https://en.wikipedia.org/wiki/Thomas_Edison){:target="_blank"}
