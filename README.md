@@ -10,7 +10,7 @@
 **Level:** Undergraduate - Senior (4th year)   
 **Position Title:** Student  
 **Course Webpage:** <https://www.cdslab.org/DMC2021F/>  
-**Photo (*ATTN: should display your photo, not mine!*):**  
+**Photo:**  
 
 ![Citlally Lopez](mypic.png)  
 
